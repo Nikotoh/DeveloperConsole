@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: edf8e093c25314c4594d1e58e119967a, type: 3}
   m_Name: Gravity Command
   m_EditorClassIdentifier: 
-  commandWord: 
+  commandWord: gravity
